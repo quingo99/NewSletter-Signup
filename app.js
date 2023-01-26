@@ -28,6 +28,7 @@ app.post("/", function(req, res){
       };
       
       async function run() {
+        //help prevent error if there is arny error it will go to catch area
         try{
             const response = await client.lists.addListMember(listId, {
             email_address: subscribingUser.email,
