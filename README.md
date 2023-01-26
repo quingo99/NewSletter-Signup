@@ -10,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/77297529/214923876-0e66b1f7-9338-4015-9e14-62811e4ede0e.png)
 
-- Using api from mailchimp to store information:
+- Using API from Mailchimp to store information:
 
 ![image](https://user-images.githubusercontent.com/77297529/214924442-63c17e04-07e3-479c-871e-6ca3c40264b6.png)
 
